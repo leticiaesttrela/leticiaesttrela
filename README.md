@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @leticiaesttrela, estudante de Análise e Desenvolvimento de Sistemas e atualmente estou aprendendo liguagem C.
+- 👋 Hi, I’m @leticiaesttrela, estudante de Análise e Desenvolvimento de Sistemas;
+- Trainee na Loopis Jr;
 - 📫 How to reach me leticia.estrela@hotmail.com.br
 
 <!---
