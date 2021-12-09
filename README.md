@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @leticiaesttrela;
-- 👀 I’m interested in developing more skills;
-- 🌱 I’m currently learning to program;
+- 👋 Hi, I’m @leticiaesttrela, estudante de Análise e Desenvolvimento de Sistemas atualmente estou aprendendo liguagem C;
 - 📫 How to reach me leticia.estrela@hotmail.com.br
 
 <!---
